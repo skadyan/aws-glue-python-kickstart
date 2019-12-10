@@ -1,7 +1,6 @@
-#Development Setup
+# Development Setup
 
-##Prerequisites Software
-* Java 8
+## Prerequisites Software
 * Python 3.6.9 (or 3.6.x)
 
 * Any decent text editor (e.g. Notepad++ )
