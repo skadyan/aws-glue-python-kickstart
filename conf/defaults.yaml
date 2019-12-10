@@ -1,0 +1,15 @@
+APP_ENV_NAME: Unspecified
+
+#
+#desc:  "${sys.vault.impl}-${sys.aws.region_name}"
+#
+
+sys:
+  aws:
+    region_name: ${osenv.AWS_DEFAULT_REGION}
+    s3_bucket_name:
+  vault:
+    enabled: True
+    impl: osiris.aws.secrets.AwsSecretManagerVault
+    impl_kwargs:
+      region_name: ${sys.aws.region_name}
