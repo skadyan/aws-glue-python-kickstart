@@ -11,8 +11,8 @@ setuptools==41.2.0
 scipy==1.2.1
 scikit-learn==0.20.3
 s3transfer==0.2.1
+PyYAML==5.4
 rsa==4.7
-PyYAML==5.1.2
 pytz==2019.2
 python-dateutil==2.8.0
 PyGreSQL==5.0.6
