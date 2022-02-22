@@ -5,14 +5,14 @@
 # @Python Version: 3.6.9
 wheel==0.33.6
 virtualenv==16.7.5
-urllib3==1.25.6
+urllib3==1.26.5
 six==1.12.0
 setuptools==41.2.0
 scipy==1.2.1
 scikit-learn==0.20.3
 s3transfer==0.2.1
-rsa==4.1
 PyYAML==5.4
+rsa==4.7
 pytz==2019.2
 python-dateutil==2.8.0
 PyGreSQL==5.0.6
