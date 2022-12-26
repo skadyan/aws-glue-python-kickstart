@@ -3,7 +3,7 @@
 # Please keep this up to date with the dependencies provided by Aws Glue runtime
 #
 # @Python Version: 3.6.9
-wheel==0.33.6
+wheel==0.38.1
 virtualenv==16.7.5
 urllib3==1.26.5
 six==1.12.0
